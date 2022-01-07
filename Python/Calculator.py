@@ -61,7 +61,7 @@ def GetBest(list, selectedOption):
 
 def Core(Game, ItemName):
   #URLs
-  baseUrl = "http://localhost:3000/"
+  baseUrl = ""
 
   #database URLs
   categoriesUrl = "api/categories/all"
